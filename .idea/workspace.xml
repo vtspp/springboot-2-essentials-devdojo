@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c7b9ef2a-61ca-48ed-888b-a8953dd2e9cc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/springboot2/controller/AnimeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/springboot2/controller/AnimeController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/springboot2/service/AnimeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/springboot2/service/AnimeService.java" afterDir="false" />
@@ -91,7 +90,7 @@
       <updated>1606614725142</updated>
       <workItem from="1606614726501" duration="4302000" />
       <workItem from="1606621781416" duration="1117000" />
-      <workItem from="1606703832918" duration="5111000" />
+      <workItem from="1606703832918" duration="8489000" />
     </task>
     <servers />
   </component>

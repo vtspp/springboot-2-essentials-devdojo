@@ -33,4 +33,10 @@ public class AnimeController {
         log.info(dateUtil.formatLocalDateTimeToDatabaseStyle(LocalDateTime.now()));
         return new ResponseEntity(animeService.findById(id), HttpStatus.OK);
     }
+
+    @PostMapping
+    public ResponseEntity<Anime> save(@RequestBody Anime anime){
+        log.info(dateUtil.formatLocalDateTimeToDatabaseStyle(LocalDateTime.now()));
+        return new ResponseEntity(animeService.save(anime), HttpStatus.CREATED);
+    }
 }
