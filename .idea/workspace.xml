@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c7b9ef2a-61ca-48ed-888b-a8953dd2e9cc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/springboot2/service/AnimeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/springboot2/controller/AnimeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/springboot2/controller/AnimeController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/springboot2/domain/Anime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/springboot2/domain/Anime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/academy/devdojo/springboot2/service/AnimeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/academy/devdojo/springboot2/service/AnimeService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/springboot2/controller/AnimeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/springboot2/controller/AnimeController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/academy/devdojo/springboot2/service/AnimeService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/academy/devdojo/springboot2/service/AnimeService.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,8 +39,12 @@
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
@@ -84,7 +91,7 @@
       <updated>1606614725142</updated>
       <workItem from="1606614726501" duration="4302000" />
       <workItem from="1606621781416" duration="1117000" />
-      <workItem from="1606703832918" duration="2105000" />
+      <workItem from="1606703832918" duration="5111000" />
     </task>
     <servers />
   </component>
